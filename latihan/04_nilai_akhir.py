@@ -1,0 +1,15 @@
+nama = input("Nama: ")
+mata_kuliah = input("Mata kuliah: ")
+nilai_tugas = float(input("Nilai tugas: "))
+nilai_uts = float(input("Nilai UTS: "))
+nilai_uas = float(input("Nilai UAS: "))
+
+nilai_akhir = (0.20 * nilai_tugas) + (0.30 * nilai_uts) + (0.50 * nilai_uas)
+
+print("\n===== NILAI AKHIR =====")
+print(f"Nama          : {nama}")
+print(f"Mata kuliah   : {mata_kuliah}")
+print(f"Nilai tugas   : {nilai_tugas:.2f}")
+print(f"Nilai UTS     : {nilai_uts:.2f}")
+print(f"Nilai UAS     : {nilai_uas:.2f}")
+print(f"Nilai akhir   : {nilai_akhir:.2f}")
