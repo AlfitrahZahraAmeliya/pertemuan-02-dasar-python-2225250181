@@ -10,6 +10,7 @@ y1 = float(input("y titik A: "))
 x2 = float(input("x titik B: "))
 y2 = float(input("y titik B: "))
 
+# Menghitung perubahan koordinat pada sumbu x dan y
 dx = x2 - x1
 dy = y2 - y1
 
