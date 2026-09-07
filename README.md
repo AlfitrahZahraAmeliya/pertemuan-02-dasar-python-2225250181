@@ -118,7 +118,7 @@ Titik tengah : (2.50, 1.00)
 
 ## Refleksi
 
-Melalui tugas ini, saya belajar menggunakan Python dasar melalui VS Code, terutama dalam penggunaan variabel, tipe data, input dan output, operator aritmatika, serta format output menggunakan f-string. Saya juga belajar melakukan pengujian program dengan beberapa data input untuk memastikan hasil perhitungan sesuai dengan yang diharapkan. Selain itu, saya belajar menggunakan Git dan GitHub untuk mengelola serta mengumpulkan project.
+Melalui tugas ini, saya belajar menggunakan Python dasar melalui VS Code, terutama dalam penggunaan variabel, tipe data, input dan output, operator aritmatika, serta format output menggunakan f-string. Saya juga belajar melakukan pengujian program dengan beberapa data input untuk memastikan hasil perhitungan sesuai dengan yang diharapkan. Selain itu, saya belajar menggunakan Git dan GitHub untuk mengelola serta mengumpulkan project. Pengujian dilakukan dengan beberapa variasi input dan seluruh hasil perhitungan pada tugas utama sesuai dengan perhitungan yang diharapkan.
 
 ## Sumber
 
