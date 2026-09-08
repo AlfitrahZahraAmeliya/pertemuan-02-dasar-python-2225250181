@@ -118,7 +118,15 @@ Titik tengah : (2.50, 1.00)
 
 ## Refleksi
 
-Melalui tugas ini, saya belajar menggunakan Python dasar melalui VS Code, terutama dalam penggunaan variabel, tipe data, input dan output, operator aritmatika, serta format output menggunakan f-string. Saya juga belajar melakukan pengujian program dengan beberapa data input untuk memastikan hasil perhitungan sesuai dengan yang diharapkan. Selain itu, saya belajar menggunakan Git dan GitHub untuk mengelola serta mengumpulkan project. Pengujian dilakukan dengan beberapa variasi input dan seluruh hasil perhitungan pada tugas utama sesuai dengan perhitungan yang diharapkan.
+Melalui tugas ini, saya belajar menggunakan Python dasar melalui VS Code, terutama dalam penggunaan variabel, tipe data, input dan output, operator aritmatika, serta format output menggunakan f-string. Saya juga belajar melakukan pengujian program dengan beberapa data input untuk memastikan hasil perhitungan sesuai dengan yang diharapkan. Selain itu, saya belajar menggunakan Git dan GitHub untuk mengelola serta mengumpulkan project.
+
+Konsep yang paling saya pahami adalah operator aritmatika karena sudah saya gunakan secara langsung dalam beberapa latihan, terutama untuk melakukan perhitungan luas, keliling, konversi suhu, nilai akhir, dan jarak antara dua titik.
+
+Kesalahan yang saya temukan adalah Git sempat meminta konfigurasi nama dan email sebelum dapat membuat commit. Saya memperbaikinya dengan mengatur nama dan email pada konfigurasi Git, kemudian melakukan commit kembali.
+
+Pada pertemuan berikutnya saya ingin lebih memahami penggunaan Git dan GitHub, terutama dalam mengelola perubahan program, melakukan commit, dan push ke repository.
+
+Pengujian dilakukan dengan beberapa variasi input dan seluruh hasil perhitungan pada tugas utama sesuai dengan perhitungan yang diharapkan.
 
 ## Sumber
 
